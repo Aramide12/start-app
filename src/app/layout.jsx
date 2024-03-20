@@ -1,6 +1,6 @@
 import { Cookie } from "next/font/google";
 import "./globals.css";
-import Navbar from "./Components/Nav"
+import Navbar from "./components/Nav"
 
 const cook = Cookie({ 
   subsets: ["latin"], weight: ["400"]});
