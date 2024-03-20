@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from '../components/Button'
-import Input from '../components/Input'
+import Button from '../files/Button'
+import Input from '../files/Input'
 
 export default function Login() {
     return (
